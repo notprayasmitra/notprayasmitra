@@ -1,22 +1,19 @@
-# About Me:
-Hello!
-<br />
-I am Prayas Mitra, a student currently enrolled for B.Tech in Computer Science & Engineering at SRM Institute of Science and Technology, Chennai.
-<br />
-<br />
-I'm a software developer who's constantly learning new stuff, and trying to build useful stuff with the new stuff that I learnt. Hope that makes sense :)
-<br />
+# Hi there, I'm Prayas Mitra 👋
+
+### 🚀 About Me
+I am a Computer Science & Engineering student at **SRM Institute of Science and Technology, Chennai**. 
+
+I'm a software developer who's constantly learning new stuff, and trying to build useful stuff with the new stuff that I learnt. Hope that makes sense :) 
 
 If an idea pops into my mind, I'll probably build it and ship it.
-<br />
 
-## Fun facts about me:
-<li> Got my first degree in Hindustani Classical Music (Vocal), even before graduating high school.
-<li> Have had three accidents before the age of 18.
-<li> Into anime - my favourite is Attack on Titan.
-<li> I usually fall asleep after drinking coffee.
+### 🎨 Fun Facts
+* 🎵 Got my first degree in **Hindustani Classical Music (Vocal)** even before graduating high school.
+* 🤕 Managed to survive **three accidents** before turning 18.
+* ⚔️ Huge anime fan—my absolute favorite is **Attack on Titan**.
+* ☕ I have a weird superpower: I usually fall asleep *after* drinking coffee.
 
-<br />
+---
 
 # Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
