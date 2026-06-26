@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="informative-banner.png" alt="Minimalist Banner" width="100%">
+  <img src="minimalist-banner.png" alt="Minimalist Banner" width="100%">
 </p>
 
 # Hi there, I'm Prayas Mitra 👋
