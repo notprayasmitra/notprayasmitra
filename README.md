@@ -1,4 +1,8 @@
-# <center>Hi there, I'm Prayas Mitra 👋</center>
+<p align="center">
+  <img src="minimalist-linkedin-banner.png" alt="Minimalist Banner" width="100%">
+</p>
+
+# Hi there, I'm Prayas Mitra 👋
 
 ### About Me
 I am a Computer Science & Engineering student at **SRM Institute of Science and Technology, Chennai**. 
