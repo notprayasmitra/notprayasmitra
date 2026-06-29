@@ -45,9 +45,6 @@ If an idea pops into my mind, I'll probably build it and ship it.
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 
 ---
-<center>
 
 | [![](https://img.shields.io/badge/Resume-View-000000?style=flat-square&logo=readthedocs&logoColor=ffffff)](https://prayasmitra.dev/june-2026-resume.pdf) | [![](https://img.shields.io/badge/Portfolio-prayasmitra.dev-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://notprayasmitra.dev) | ![](https://komarev.com/ghpvc/?username=notprayasmitra&color=000000) |
 | --- | --- | --- |
-
-</center>
